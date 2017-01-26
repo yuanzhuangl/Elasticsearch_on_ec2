@@ -1,0 +1,134 @@
+{
+  "took" : 11,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 39241,
+    "max_score" : 1.0,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15Gx6",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6514237-2012_05M-1205BRwd-Weekday-02",
+        "arrival_time" : "14:37:00",
+        "departure_time" : "14:37:00",
+        "stop_id" : 8814,
+        "stop_sequence" : 2
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G0l",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6515622-2012_05M-1205BRsa-Saturday-02",
+        "arrival_time" : "15:10:00",
+        "departure_time" : "15:10:00",
+        "stop_id" : 8640,
+        "stop_sequence" : 1
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G0m",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6515622-2012_05M-1205BRsa-Saturday-02",
+        "arrival_time" : "15:11:00",
+        "departure_time" : "15:11:00",
+        "stop_id" : 8623,
+        "stop_sequence" : 2
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G0t",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6515622-2012_05M-1205BRsa-Saturday-02",
+        "arrival_time" : "15:19:00",
+        "departure_time" : "15:19:00",
+        "stop_id" : 8006,
+        "stop_sequence" : 9
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G03",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6515622-2012_05M-1205BRsa-Saturday-02",
+        "arrival_time" : "15:25:00",
+        "departure_time" : "15:25:00",
+        "stop_id" : 7498,
+        "stop_sequence" : 19
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G07",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6515622-2012_05M-1205BRsa-Saturday-02",
+        "arrival_time" : "15:28:00",
+        "departure_time" : "15:28:00",
+        "stop_id" : 8019,
+        "stop_sequence" : 23
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G2V",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6512494-2012_05M-1205BRwd-Weekday-02",
+        "arrival_time" : "15:17:00",
+        "departure_time" : "15:17:00",
+        "stop_id" : 6410,
+        "stop_sequence" : 6
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G2b",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6512494-2012_05M-1205BRwd-Weekday-02",
+        "arrival_time" : "15:21:00",
+        "departure_time" : "15:21:00",
+        "stop_id" : 6869,
+        "stop_sequence" : 12
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G2c",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6512494-2012_05M-1205BRwd-Weekday-02",
+        "arrival_time" : "15:22:00",
+        "departure_time" : "15:22:00",
+        "stop_id" : 6848,
+        "stop_sequence" : 13
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stoptimes",
+      "_id" : "AVnJs_GLTBgtqBh15G2f",
+      "_score" : 1.0,
+      "_source" : {
+        "trip_id" : "6512494-2012_05M-1205BRwd-Weekday-02",
+        "arrival_time" : "15:24:00",
+        "departure_time" : "15:24:00",
+        "stop_id" : 6845,
+        "stop_sequence" : 16
+      }
+    } ]
+  }
+}

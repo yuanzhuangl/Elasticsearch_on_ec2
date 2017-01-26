@@ -1,0 +1,144 @@
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 91,
+    "max_score" : 18.938532,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMvTBgtqBh169kw",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2151040",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6517523-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMxTBgtqBh16-XR",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2151015",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6517543-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMxTBgtqBh16-eB",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2150488",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6511486-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMyTBgtqBh16-wU",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2151219",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRsu-Sunday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6518231-2012_05M-1205BRsu-Sunday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMyTBgtqBh16-0j",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2150508",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6511492-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMyTBgtqBh16-1d",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2151040",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6517521-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMyTBgtqBh16-2M",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2150409",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "530044",
+        "trip_id" : "6511534-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMzTBgtqBh16-_t",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2150488",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6511480-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMzTBgtqBh16_GQ",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2151264",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRsu-Sunday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6518236-2012_05M-1205BRsu-Sunday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMzTBgtqBh16_Qs",
+      "_score" : 18.938532,
+      "_source" : {
+        "block_id" : "a_2150566",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6511538-2012_05M-1205BRwd-Weekday-02"
+      }
+    } ]
+  }
+}

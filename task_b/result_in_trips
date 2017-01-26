@@ -1,0 +1,432 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 9286,
+    "max_score" : 4.952903,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMuTBgtqBh169Wm",
+      "_score" : 4.952903,
+      "_source" : {
+        "block_id" : "a_2151042",
+        "route_id" : "60-121",
+        "trip_headsign" : "60 EASTERN PASSAGE",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "600082",
+        "trip_id" : "6515622-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684O",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151062",
+        "route_id" : "56-121",
+        "trip_headsign" : "56 PORTLAND HILLS",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "560023",
+        "trip_id" : "6516542-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684S",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151028",
+        "route_id" : "61-121",
+        "trip_headsign" : "61 PORTLAND ST TO AUBURN- N. PRESTON",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "610066",
+        "trip_id" : "6515544-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684l",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151013",
+        "route_id" : "2-121",
+        "trip_headsign" : "2 WEDGEWOOD VIA MAIN",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "20043",
+        "trip_id" : "6516701-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684m",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151013",
+        "route_id" : "4-121",
+        "trip_headsign" : "4 DOWNTOWN VIA NORTH",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "40027",
+        "trip_id" : "6515776-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1685V",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151023",
+        "route_id" : "10-121",
+        "trip_headsign" : "10 WESTPHAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "100141",
+        "trip_id" : "6515824-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1685d",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151001",
+        "route_id" : "1-121",
+        "trip_headsign" : "1 SPRING GARDEN TO BRIDGE TERMINAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "10014",
+        "trip_id" : "6516767-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh16857",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151027",
+        "route_id" : "16-121",
+        "trip_headsign" : "16 LACEWOOD VIA PARKLAND",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "160037",
+        "trip_id" : "6516657-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686t",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151015",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO BRIDGE TERMINAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "530039",
+        "trip_id" : "6517498-2012_05M-1205BRsa-Saturday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh16868",
+      "_score" : 0.605029,
+      "_source" : {
+        "block_id" : "a_2151041",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO BRIDGE TERMINAL",
+        "service_id" : "2012_05M-1205BRsa-Saturday-02",
+        "shape_id" : "530039",
+        "trip_id" : "6517528-2012_05M-1205BRsa-Saturday-02"
+      }
+    } ]
+  }
+}
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 10853,
+    "max_score" : 5.0339026,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMuTBgtqBh169Wo",
+      "_score" : 5.0339026,
+      "_source" : {
+        "block_id" : "a_2150756",
+        "route_id" : "19-121",
+        "trip_headsign" : "19 GREYSTONE",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "190014",
+        "trip_id" : "6512494-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1683f",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150600",
+        "route_id" : "57-121",
+        "trip_headsign" : "57 PORTLAND HILLS VIA PORTLAND ESTATES",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "570065",
+        "trip_id" : "6513677-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684Z",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150657",
+        "route_id" : "52-121",
+        "trip_headsign" : "52 CROSSTOWN TO LACEWOOD",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "520255",
+        "trip_id" : "6513017-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh16840",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150661",
+        "route_id" : "10-121",
+        "trip_headsign" : "10 WESTPHAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "100141",
+        "trip_id" : "6512759-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1685c",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150648",
+        "route_id" : "68-121",
+        "trip_headsign" : "68 PORTLAND ST TO CHERRYBROOK",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "680089",
+        "trip_id" : "6512178-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1685_",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150665",
+        "route_id" : "1-121",
+        "trip_headsign" : "1 SPRING GARDEN TO BRIDGE TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "10014",
+        "trip_id" : "6514048-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686H",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150591",
+        "route_id" : "80-121",
+        "trip_headsign" : "80 HALIFAX",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "800064",
+        "trip_id" : "6513451-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686K",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150619",
+        "route_id" : "9-121",
+        "trip_headsign" : "9 BARRINGTON TO MUMFORD",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "90074",
+        "trip_id" : "6511815-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686Z",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150596",
+        "route_id" : "72-121",
+        "trip_headsign" : "72 DARTMOUTH CROSSING VIA WRIGHT AVE",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "720026",
+        "trip_id" : "6513627-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686e",
+      "_score" : 0.46136427,
+      "_source" : {
+        "block_id" : "a_2150732",
+        "route_id" : "17-121",
+        "trip_headsign" : "17 LACEWOOD",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "170023",
+        "trip_id" : "6511163-2012_05M-1205BRwd-Weekday-02"
+      }
+    } ]
+  }
+}
+{
+  "took" : 5,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 10853,
+    "max_score" : 5.201523,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMuTBgtqBh169Wg",
+      "_score" : 5.201523,
+      "_source" : {
+        "block_id" : "a_2150504",
+        "route_id" : "8-121",
+        "trip_headsign" : "8 WATERFRONT TO SCOTIA SQUARE",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "80018",
+        "trip_id" : "6514237-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684A",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150504",
+        "route_id" : "8-121",
+        "trip_headsign" : "8 WATERFRONT TO PIER 21",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "80021",
+        "trip_id" : "6514255-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1684J",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150482",
+        "route_id" : "53-121",
+        "trip_headsign" : "53 NOTTING PARK TO HIGHFIELD TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "530053",
+        "trip_id" : "6511464-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1685i",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150532",
+        "route_id" : "17-121",
+        "trip_headsign" : "17 SAINT MARY'S",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "170022",
+        "trip_id" : "6511184-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1685k",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150593",
+        "route_id" : "81-121",
+        "trip_headsign" : "81 DOWNTOWN",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "810016",
+        "trip_id" : "6511429-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686Q",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150436",
+        "route_id" : "185-121",
+        "trip_headsign" : "185 HALIFAX",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "1850009",
+        "trip_id" : "6511872-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686W",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150608",
+        "route_id" : "83-121",
+        "trip_headsign" : "83 SPRINGFIELD",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "830020",
+        "trip_id" : "6512718-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh1686f",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150716",
+        "route_id" : "2-121",
+        "trip_headsign" : "2 WEDGEWOOD VIA MAIN",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "20043",
+        "trip_id" : "6511249-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh16862",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150710",
+        "route_id" : "68-121",
+        "trip_headsign" : "68 PORTLAND ST TO BRIDGE TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "680093",
+        "trip_id" : "6512197-2012_05M-1205BRwd-Weekday-02"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "trips",
+      "_id" : "AVnJtxMtTBgtqBh16865",
+      "_score" : 0.43139273,
+      "_source" : {
+        "block_id" : "a_2150687",
+        "route_id" : "1-121",
+        "trip_headsign" : "1 SPRING GARDEN TO BRIDGE TERMINAL",
+        "service_id" : "2012_05M-1205BRwd-Weekday-02",
+        "shape_id" : "10014",
+        "trip_id" : "6514041-2012_05M-1205BRwd-Weekday-02"
+      }
+    } ]
+  }
+}

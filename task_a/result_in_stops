@@ -1,0 +1,80 @@
+{
+  "took" : 18,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 6,
+    "max_score" : 5.9743757,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zr",
+      "_score" : 5.9743757,
+      "_source" : {
+        "stop_id" : "8606",
+        "name_stop" : "woodside Ferry Terminal [inbound]",
+        "lat" : "44.649",
+        "log" : "-63.5481"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zs",
+      "_score" : 5.9729543,
+      "_source" : {
+        "stop_id" : "8607",
+        "name_stop" : "woodside Ferry Metrolink",
+        "lat" : "44.6492",
+        "log" : "-63.5485"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168TW",
+      "_score" : 5.7715907,
+      "_source" : {
+        "stop_id" : "1073",
+        "name_stop" : " Ferry Stop - Halifax",
+        "lat" : "44.6495",
+        "log" : "-63.5729"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168TX",
+      "_score" : 5.7715907,
+      "_source" : {
+        "stop_id" : "1074",
+        "name_stop" : " Ferry Stop - Alderney",
+        "lat" : "44.6649",
+        "log" : "-63.5702"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168TY",
+      "_score" : 5.771472,
+      "_source" : {
+        "stop_id" : "1075",
+        "name_stop" : " Ferry Stop - Woodside",
+        "lat" : "44.6486",
+        "log" : "-63.5472"
+      }
+    }, {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zq",
+      "_score" : 5.771472,
+      "_source" : {
+        "stop_id" : "8605",
+        "name_stop" : "woodside Ferry Terminal [outbound]",
+        "lat" : "44.6491",
+        "log" : "-63.5483"
+      }
+    } ]
+  }
+}

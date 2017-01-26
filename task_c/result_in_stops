@@ -1,0 +1,2500 @@
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.3236737,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168hp",
+      "_score" : 7.3236737,
+      "_source" : {
+        "stop_id" : "6930",
+        "name_stop" : "highfield Terminal [southbound]",
+        "lat" : "44.6844",
+        "log" : "-63.5892"
+      }
+    } ]
+  }
+}
+{
+  "took" : 8,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.6554494,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168w5",
+      "_score" : 7.6554494,
+      "_source" : {
+        "stop_id" : "8426",
+        "name_stop" : "victoria Rd before Primrose St",
+        "lat" : "44.681",
+        "log" : "-63.5869"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.3236737,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168hp",
+      "_score" : 7.3236737,
+      "_source" : {
+        "stop_id" : "6930",
+        "name_stop" : "highfield Terminal [southbound]",
+        "lat" : "44.6844",
+        "log" : "-63.5892"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.6554494,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168w5",
+      "_score" : 7.6554494,
+      "_source" : {
+        "stop_id" : "8426",
+        "name_stop" : "victoria Rd before Primrose St",
+        "lat" : "44.681",
+        "log" : "-63.5869"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.3236737,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168hp",
+      "_score" : 7.3236737,
+      "_source" : {
+        "stop_id" : "6930",
+        "name_stop" : "highfield Terminal [southbound]",
+        "lat" : "44.6844",
+        "log" : "-63.5892"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.6554494,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168w5",
+      "_score" : 7.6554494,
+      "_source" : {
+        "stop_id" : "8426",
+        "name_stop" : "victoria Rd before Primrose St",
+        "lat" : "44.681",
+        "log" : "-63.5869"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.3236737,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168hp",
+      "_score" : 7.3236737,
+      "_source" : {
+        "stop_id" : "6930",
+        "name_stop" : "highfield Terminal [southbound]",
+        "lat" : "44.6844",
+        "log" : "-63.5892"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 6.758233,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Uu",
+      "_score" : 6.758233,
+      "_source" : {
+        "stop_id" : "6087",
+        "name_stop" : "barrington St [northbound] opposite Scotia Square",
+        "lat" : "44.6502",
+        "log" : "-63.5756"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.355852,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168fN",
+      "_score" : 7.355852,
+      "_source" : {
+        "stop_id" : "6773",
+        "name_stop" : "gottingen St [northbound] after Cogswell St",
+        "lat" : "44.6507",
+        "log" : "-63.5813"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.358695,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168fb",
+      "_score" : 7.358695,
+      "_source" : {
+        "stop_id" : "6787",
+        "name_stop" : "gottingen St [northbound] opposite Sunrise Manor",
+        "lat" : "44.6557",
+        "log" : "-63.5887"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.578612,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wA",
+      "_score" : 8.578612,
+      "_source" : {
+        "stop_id" : "8363",
+        "name_stop" : "summer St after Bell Rd (qeii Infirmary)",
+        "lat" : "44.6463",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.4133086,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168vj",
+      "_score" : 7.4133086,
+      "_source" : {
+        "stop_id" : "8333",
+        "name_stop" : "spring Garden Rd [eastbound] before South Park St",
+        "lat" : "44.6421",
+        "log" : "-63.58"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 6.8488855,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168VO",
+      "_score" : 6.8488855,
+      "_source" : {
+        "stop_id" : "6121",
+        "name_stop" : "barrington St [northbound] before Sackville St",
+        "lat" : "44.6461",
+        "log" : "-63.5735"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.299222,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168fT",
+      "_score" : 7.299222,
+      "_source" : {
+        "stop_id" : "6779",
+        "name_stop" : "gottingen St [northbound] before Cunard St",
+        "lat" : "44.6533",
+        "log" : "-63.5852"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.1609173,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168vd",
+      "_score" : 7.1609173,
+      "_source" : {
+        "stop_id" : "8327",
+        "name_stop" : "spring Garden Rd [eastbound] after Queen St",
+        "lat" : "44.6432",
+        "log" : "-63.5761"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 6.928623,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Us",
+      "_score" : 6.928623,
+      "_source" : {
+        "stop_id" : "6085",
+        "name_stop" : "barrington St [northbound] in front of civic address 1663",
+        "lat" : "44.6468",
+        "log" : "-63.5738"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.6554494,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168w5",
+      "_score" : 7.6554494,
+      "_source" : {
+        "stop_id" : "8426",
+        "name_stop" : "victoria Rd before Primrose St",
+        "lat" : "44.681",
+        "log" : "-63.5869"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.6554494,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168w5",
+      "_score" : 7.6554494,
+      "_source" : {
+        "stop_id" : "8426",
+        "name_stop" : "victoria Rd before Primrose St",
+        "lat" : "44.681",
+        "log" : "-63.5869"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7895255,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168wy",
+      "_score" : 7.7895255,
+      "_source" : {
+        "stop_id" : "8418",
+        "name_stop" : "victoria Rd after Albro Lake Rd",
+        "lat" : "44.6796",
+        "log" : "-63.5845"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.3236737,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168hp",
+      "_score" : 7.3236737,
+      "_source" : {
+        "stop_id" : "6930",
+        "name_stop" : "highfield Terminal [southbound]",
+        "lat" : "44.6844",
+        "log" : "-63.5892"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.7487063,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z1",
+      "_score" : 7.7487063,
+      "_source" : {
+        "stop_id" : "8616",
+        "name_stop" : "wyse Rd before Boland Rd",
+        "lat" : "44.6717",
+        "log" : "-63.5806"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.3236737,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168hp",
+      "_score" : 7.3236737,
+      "_source" : {
+        "stop_id" : "6930",
+        "name_stop" : "highfield Terminal [southbound]",
+        "lat" : "44.6844",
+        "log" : "-63.5892"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.056587,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z3",
+      "_score" : 8.056587,
+      "_source" : {
+        "stop_id" : "8618",
+        "name_stop" : "wyse Rd in front of civic address 200",
+        "lat" : "44.674",
+        "log" : "-63.584"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.109756,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z0",
+      "_score" : 8.109756,
+      "_source" : {
+        "stop_id" : "8615",
+        "name_stop" : "wyse Rd in front of civic address 254",
+        "lat" : "44.6753",
+        "log" : "-63.5858"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.272108,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168z4",
+      "_score" : 8.272108,
+      "_source" : {
+        "stop_id" : "8619",
+        "name_stop" : "wyse Rd before Albro Lake Rd",
+        "lat" : "44.6765",
+        "log" : "-63.5875"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.5416894,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh1680M",
+      "_score" : 7.5416894,
+      "_source" : {
+        "stop_id" : "8641",
+        "name_stop" : "bridge Terminal [to Dart] and [lanes 1 & 2]",
+        "lat" : "44.6702",
+        "log" : "-63.5763"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.211082,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Ts",
+      "_score" : 8.211082,
+      "_source" : {
+        "stop_id" : "6019",
+        "name_stop" : "albro Lake Rd after Richmond St",
+        "lat" : "44.6777",
+        "log" : "-63.5861"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 7.6554494,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168w5",
+      "_score" : 7.6554494,
+      "_source" : {
+        "stop_id" : "8426",
+        "name_stop" : "victoria Rd before Primrose St",
+        "lat" : "44.681",
+        "log" : "-63.5869"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.269608,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBTTBgtqBh168zx",
+      "_score" : 8.269608,
+      "_source" : {
+        "stop_id" : "8612",
+        "name_stop" : "wyse Rd after Boland Rd",
+        "lat" : "44.6724",
+        "log" : "-63.5819"
+      }
+    } ]
+  }
+}
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 8.153156,
+    "hits" : [ {
+      "_index" : "bustracks",
+      "_type" : "stops",
+      "_id" : "AVnJtnBSTBgtqBh168Tr",
+      "_score" : 8.153156,
+      "_source" : {
+        "stop_id" : "6018",
+        "name_stop" : "albro Lake Rd after Chapman St",
+        "lat" : "44.6787",
+        "log" : "-63.5848"
+      }
+    } ]
+  }
+}
