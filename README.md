@@ -1,9 +1,8 @@
 # Elasticsearch_on_ec2
 join os command to realize Multi-table quires
 
-
-
 Query task:
+
     a. Find all buses for a particular Bus Stop
         1. Input: Bus Stop Name
         2. Output: List of all buses, response time for the search query
